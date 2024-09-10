@@ -22,5 +22,3 @@ for (i=0;i<=player.length;i=i+2)
 }
 
 
-
- 
