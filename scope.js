@@ -21,3 +21,5 @@ function myFunc(){
 }
 myFunc()
 console.log(y);     //4 5 2
+
+
